@@ -1,0 +1,20 @@
+# Ignore compiled binary files
+*.o
+*.out
+*.bin
+*.vvp
+
+# Ignore simulation and synthesis logs
+*.log
+*.vcd
+*.wdb
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore folders created by build tools
+/build/
+/simulations/
+/results/
